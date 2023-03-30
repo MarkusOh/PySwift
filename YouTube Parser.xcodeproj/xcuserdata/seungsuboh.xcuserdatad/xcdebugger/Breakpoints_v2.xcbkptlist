@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "BBDC4511-B5EF-4FB9-8580-BD213B34183C"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "70560255-B093-446C-8203-D1140EFDD7A3"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "YouTube Parser/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "70560255-B093-446C-8203-D1140EFDD7A3 - e8d876b44a047156"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable () async -&gt; () in YouTube_Parser.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "YouTube Parser"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/seungsuboh/Dev/YouTube%20Parser/YouTube%20Parser/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "120">
+               </Location>
+               <Location
+                  uuid = "70560255-B093-446C-8203-D1140EFDD7A3 - 582c2701bfb4cf0c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) await resume partial function for closure #1 @Sendable () async -&gt; () in YouTube_Parser.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "YouTube Parser"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/seungsuboh/Dev/YouTube%20Parser/YouTube%20Parser/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "44">
+               </Location>
+               <Location
+                  uuid = "70560255-B093-446C-8203-D1140EFDD7A3 - dade935687b386ae"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) suspend resume partial function for closure #1 @Sendable () async -&gt; () in YouTube_Parser.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "YouTube Parser"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/seungsuboh/Dev/YouTube%20Parser/YouTube%20Parser/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "128">
+               </Location>
+               <Location
+                  uuid = "70560255-B093-446C-8203-D1140EFDD7A3 - 32959f73dde8c2b0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #1 @Sendable () async -&gt; () in YouTube_Parser.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "YouTube Parser"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/seungsuboh/Dev/YouTube%20Parser/YouTube%20Parser/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "92">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
